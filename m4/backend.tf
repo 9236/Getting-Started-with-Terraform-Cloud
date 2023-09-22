@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "ORG_NAME"
+    organization = "globomantics-iulian0312"
 
     workspaces {
       name = "diamonddogs-app-useast1-dev"
